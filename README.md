@@ -27,13 +27,13 @@ I created this project to practice modern frontend development using Tailwind's 
 ```
 landing-page/
 ├── index.html
-├── style.css
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── package.json
 ├── vite.config.js
 ├── src/
-│   └── main.js
+    └── main.js
+    └── style.css
 ```
 
 ## 💡 Future Improvements
