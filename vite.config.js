@@ -1,5 +1,6 @@
+// vite.config.js
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/landing-page/', // nombre exacto del repo
+  base: '/landing-page/', // exacto al nombre del repositorio
 });
